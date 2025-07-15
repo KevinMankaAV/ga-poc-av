@@ -1,1 +1,1 @@
-# Mock Client Website for GA POC (Embedded Checkout)
+# Mock AV Website for GA POC (Embedded Checkout)
